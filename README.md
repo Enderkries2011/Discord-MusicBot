@@ -1,5 +1,5 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">Thanks for watching this code</p>
+<p align="center">Thanks for watching this code there are coppys!! i used pictures and videos from someone else they where better</p>
 
 ## ✨Latest Updates
 
